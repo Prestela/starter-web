@@ -10,5 +10,6 @@ bla bla
 halo
 ## How to contribute
 Sample website with plenty of files for demos
+Please fork this repository then issue Pull requests to review.
 ## Copyright
 2020 Git.Training
