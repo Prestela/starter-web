@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pres -- pc@gmail.com -- bla
 
 # THANKS
 
